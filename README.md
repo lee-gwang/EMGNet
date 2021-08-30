@@ -1,1 +1,1 @@
-# [CIKM'21] EMGNet:Efficient Multi-Scale Feature Generation AdaptiveNetwork
+# [CIKM'21] EMGNet: Efficient Multi-Scale Feature Generation AdaptiveNetwork
