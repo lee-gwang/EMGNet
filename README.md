@@ -1,4 +1,4 @@
-# CIKM'21 EMGNet: Efficient Multi-Scale Feature Generation AdaptiveNetwork
+# CIKM'21 - EMGNet: Efficient Multi-Scale Feature Generation AdaptiveNetwork
 ## Abstract
 <img src="./fig/overview.PNG" width="400" height="600"> 
 
