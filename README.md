@@ -1,8 +1,8 @@
 # CIKM'21 EMGNet: Efficient Multi-Scale Feature Generation AdaptiveNetwork
 ## Abstract
-![ex_screenshot](./fig/overview.PNG)
-![ex_screenshot](./fig/experimetns.png)
+<img src="./fig/overview.PNG" width="400" height="600"> 
 
+<img src="./fig/experimetns.png">
 
 Recently, an early exit network, which dynamically adjusts the
 model complexity during inference time, has achieved remarkable
